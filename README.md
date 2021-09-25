@@ -8,7 +8,7 @@
 
    ✓ Node JS / Express JS
 
-   ✓ MySQL / MongoDB / Firbase DB
+   ✓ MySQL / MongoDB 
 
    ✓ PHP/ Laravel / Codeigniter
 
