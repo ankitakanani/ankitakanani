@@ -4,12 +4,18 @@
 
 - 🌱 My experience involves,
 
-✓ React JS / Angular / Node JS Development
-✓ Node JS / Express JS
-✓ MySQL / MongoDB / Firbase DB
-✓ PHP/ Laravel / Codeigniter
-✓ AWS Lambda / Firebase Functions
-✓ APIs (Facebook/ Twitter/ Google/ Stripe/ Payment Gateways / Mailchimp / Stripe Connect etc.)
+   ✓ React JS / Angular / Node JS Development
+
+   ✓ Node JS / Express JS
+
+   ✓ MySQL / MongoDB / Firbase DB
+
+   ✓ PHP/ Laravel / Codeigniter
+
+   ✓ AWS Lambda / Firebase Functions
+
+   ✓ APIs (Facebook/ Twitter/ Google/ Stripe/ Payment Gateways / Stripe Connect etc.)
+
 
 - 💞️ I’m looking to collaborate on development projects.
 
